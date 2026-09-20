@@ -1,1 +1,1 @@
-# data-platform-configs
+# data-platform-dag-configs
